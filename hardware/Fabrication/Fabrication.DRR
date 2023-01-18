@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: MiniRobot.PcbDoc   18/01/2023  11:19:03
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Fabrication-Plated.TXT
+ASCII Non-Plated RoundHoles File : Fabrication-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          4                0.13 Inch (3.30 mm)
+T2        9.84mil (0.24994mm)      Round          609              85.26 Inch (2165.72 mm)
+T3        19.68mil (0.49987mm)     Round          43               12.10 Inch (307.46 mm)
+T4        27.56mil (0.70002mm)     Round          10               0.55 Inch (13.97 mm)
+T5        39.37mil (1mm)           Round          4                0.30 Inch (7.62 mm)
+T6        43.31mil (1.10007mm)     Round          6         NPTH   3.33 Inch (84.52 mm)
+T7        86.61mil (2.19989mm)     Round          4         NPTH   3.74 Inch (95.00 mm)
+---------------------------------------------------------------------------
+Totals                                            680              105.42 Inch (2677.60 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
